@@ -1,2 +1,3 @@
 # hello-world
-study and share code
+intro:study and share code
+This is my first attempt.
